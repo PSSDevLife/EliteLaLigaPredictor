@@ -1,0 +1,102 @@
+[
+    {
+        "match_id": "01_0101_20260403_184_954",
+        "jornada": "30",
+        "local": "Rayo Vallecano",
+        "visitante": "Elche",
+        "resultado": "",
+        "kickoff_time": "2026-04-03T19:00:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260403_184_954"
+    },
+    {
+        "match_id": "01_0101_20260404_188_855",
+        "jornada": "30",
+        "local": "Real Sociedad",
+        "visitante": "Levante",
+        "resultado": "",
+        "kickoff_time": "2026-04-04T12:00:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260404_188_855"
+    },
+    {
+        "match_id": "01_0101_20260404_181_186",
+        "jornada": "30",
+        "local": "Mallorca",
+        "visitante": "Real Madrid",
+        "resultado": "",
+        "kickoff_time": "2026-04-04T14:15:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260404_181_186"
+    },
+    {
+        "match_id": "01_0101_20260404_185_177",
+        "jornada": "30",
+        "local": "Real Betis",
+        "visitante": "Espanyol",
+        "resultado": "",
+        "kickoff_time": "2026-04-04T16:30:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260404_185_177"
+    },
+    {
+        "match_id": "01_0101_20260404_175_178",
+        "jornada": "30",
+        "local": "Atletico",
+        "visitante": "Barcelona",
+        "resultado": "",
+        "kickoff_time": "2026-04-04T19:00:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260404_175_178"
+    },
+    {
+        "match_id": "01_0101_20260405_1450_174",
+        "jornada": "30",
+        "local": "Getafe",
+        "visitante": "Athletic Club",
+        "resultado": "",
+        "kickoff_time": "2026-04-05T12:00:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260405_1450_174"
+    },
+    {
+        "match_id": "01_0101_20260405_191_176",
+        "jornada": "30",
+        "local": "Valencia CF",
+        "visitante": "Celta de Vigo",
+        "resultado": "",
+        "kickoff_time": "2026-04-05T14:15:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260405_191_176"
+    },
+    {
+        "match_id": "01_0101_20260405_187_179",
+        "jornada": "30",
+        "local": "Real Oviedo",
+        "visitante": "Sevilla FC",
+        "resultado": "",
+        "kickoff_time": "2026-04-05T16:30:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260405_187_179"
+    },
+    {
+        "match_id": "01_0101_20260405_173_450",
+        "jornada": "30",
+        "local": "Alaves",
+        "visitante": "Osasuna",
+        "resultado": "",
+        "kickoff_time": "2026-04-05T19:00:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260405_173_450"
+    },
+    {
+        "match_id": "01_0101_20260406_2893_449",
+        "jornada": "30",
+        "local": "Girona",
+        "visitante": "Villarreal",
+        "resultado": "",
+        "kickoff_time": "2026-04-06T19:00:00.000Z",
+        "status": "Programado",
+        "directo_url": "https://www.marca.com/eventos/directo/index.html?e=01_0101_20260406_2893_449"
+    }
+]

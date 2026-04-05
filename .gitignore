@@ -1,0 +1,11 @@
+# Archivos de entorno (Proteccion de API Keys)
+.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Descomentar la siguiente linea si en el futuro NO queremos subir los JSON
+# data/*.json

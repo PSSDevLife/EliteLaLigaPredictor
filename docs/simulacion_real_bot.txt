@@ -1,0 +1,75 @@
+========================================================================
+    🎮 ALTA SIMULACIÓN: EL BOT EN UN FIN DE SEMANA REAL 🎮
+========================================================================
+
+Esta es una simulación paso a paso de lo que ocurre cuando ejecutas 
+"sistema_control.py" y lo dejas funcionando de forma totalmente autónoma 
+durante una jornada completa (Jornada 30).
+
+------------------------------------------------------------------------
+🕵️‍♂️ MIÉRCOLES 1 DE ABRIL - "Activando el Radar"
+------------------------------------------------------------------------
+El bot da su primer latido. 
+* El Sincronizador (Calendario): El radar mira hacia adelante. Encuentra 
+  el Rayo vs Elche del viernes y el resto del finde. Crea el archivo y 
+  los pone todos en "Programado".
+* El Reportero (Prensa): Sintoniza 40 canales. Te lee las noticias de la 
+  semana. Hay dudas en la prensa. El bot guarda 150 noticias tácticas.
+* El Cazador (Alineaciones): Va a los estadios, pero están vacíos. 
+  Escribe: "Alineaciones aún no disponibles". Se queda en guardia.
+
+------------------------------------------------------------------------
+🗞️ JUEVES 2 DE ABRIL - "Día de Ruedas de Prensa"
+------------------------------------------------------------------------
+El bot sigue dando sus ciclos silenciosos cada 60 minutos.
+* El Reportero: Hoy hablan los entrenadores. Aparece una noticia: 
+  "El Rayo recurre la expulsión de Isi". Como tiene palabra clave, el 
+  bot le clava el sello [SANCION] automático. Además, limpia la base de 
+  datos y borra lo que tenga más de 48h de antigüedad.
+
+------------------------------------------------------------------------
+🔥 VIERNES 3 DE ABRIL - "El Primer Disparo" (Rayo vs Elche, 21:00h)
+------------------------------------------------------------------------
+Llega la tensión del primer partido.
+* 12:00h: El bot sigue su rutina. Todo tranquilo, escaneando prensa.
+* 20:00h: (T-60 minutos para el partido): ¡El Cazador despierta! Viaja 
+  al servidor oficial de Marca. Detecta movimiento en Vallecas. Se trae 
+  la lista de los 22 titulares que juegan resolviendo las dudas de la 
+  prensa. "alineaciones_reales.json" tiene tu primer once definitivo.
+* 23:00h: El partido acaba. El Sincronizador ve el marcador final en la 
+  API (1-0) y cambia su estado a "Finalizado". Archivo actualizado.
+
+------------------------------------------------------------------------
+⚔️ SÁBADO 4 DE ABRIL - "Día de Caos Táctico" (Getafe, Barça, Atleti...)
+------------------------------------------------------------------------
+Día de muchos partidos. El bot te exime de mirar resultados.
+* 10:00h: El Reportero borra solo todo el ruido del viernes para 
+  ahorrar espacio y clava su atención en los equipos de hoy.
+* 15:00h: Un bombazo en prensa: "Xavi castiga a su delantero". La noticia 
+  entra de inmediato a tu base de datos.
+* 20:00h (T-60 del Barça-Atleti): El Cazador confirma la bomba. Lee los 
+  datos puros oficiales y confirma que ese jugador NO está en el once.
+
+------------------------------------------------------------------------
+☔ DOMINGO 5 DE ABRIL - "El Imprevisto"
+------------------------------------------------------------------------
+Sigue la jornada, pero ocurre una anomalía.
+* 17:00h: Hay un tifón. El Valencia-Celta de las 18:30 se suspende.
+  Tú no estás en casa y tu IA iba a ordenar una apuesta a las 18:00h.
+* 18:00h: El Orquestador da su vuelta. Al contactar con la base de datos 
+  oficial, ve que el estado del partido ha cambiado. Automáticamente 
+  borra el "Programado" en tu calendario.json y lo cambia por "Aplazado".
+* Impacto: Tu bot de IA lee el fichero, ve el aplazamiento, y cancela 
+  la apuesta. Evitas perder el dinero. Funciona como un escudo.
+
+------------------------------------------------------------------------
+🏁 LUNES POR LA MAÑANA
+------------------------------------------------------------------------
+Vuelves y miras tu consola. Ahí sigue:
+- Ciclo #120 completado.
+- 10/10 Partidos localizados y procesados con sus Resultados.
+- 19/20 Alineaciones capturadas (Al aplazado le correspondía estar vacío).
+- Base de Noticias perfecta: Solo frescas y sin ruido.
+
+¡Has operado una jornada completa sin tocar el teclado ni abrir el As o 
+el Marca ni una sola vez! Ese es el poder de este software autónomo.

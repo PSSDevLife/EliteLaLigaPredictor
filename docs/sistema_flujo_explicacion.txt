@@ -1,0 +1,63 @@
+========================================================================
+       🏢 MAPA DE FLUJO DEFINITIVO: ÉLITE LA LIGA PREDICTOR 🏢
+========================================================================
+
+Este documento es el Cerebro Logístico y el Manual de Operaciones. Describe 
+la arquitectura del sistema que garantiza datos de apostador profesional.
+
+------------------------------------------------------------------------
+1. PASO 1: LOS CIMIENTOS - "El Portero" (.env) [COMPLETADO ✅]
+------------------------------------------------------------------------
+- Técnica: Almacenamiento seguro de variables de entorno y API Keys.
+- Explicación: Es el que tiene las llaves del campo. Sin ellas, no podemos 
+  entrar a las bases de datos de Marca o los proveedores de estadísticas.
+- Estado: Preparado para claves de RapidAPI y APIs profesionales.
+
+------------------------------------------------------------------------
+2. PASO 2: EL REPORTERO ÉLITE - "El Espía de Prensa" (reportero.py) [✅]
+------------------------------------------------------------------------
+- Técnica: Escaneo de 40 canales RSS (Marca + AS) con filtros regex.
+- Explicación: Es como tener a 20 periodistas leyendo todos los periódicos 
+  por ti. Tira a la basura los chismes (novias, programas TV) y se queda 
+  con lo que importa: ¿Quién está lesionado o sancionado [SANCIÓN]?
+- Resultado: Genera 'diario_liga.json' con oro puro táctico.
+
+------------------------------------------------------------------------
+3. PASO 3: SINCRONIZADOR DINÁMICO - "El Director de Agenda" (creador_de_jornada.py) [✅]
+------------------------------------------------------------------------
+- Técnica: Extracción profesional vía API de Unidad Editorial.
+- Explicación: Es el que sabe a qué hora y contra quién juega cada uno. 
+  Detecta la jornada por la fecha de hoy y captura el "DNI" (Match ID) 
+  oficial de cada partido para que el bot no se pierda.
+- Resultado: 'calendario_jornada.json' siempre actualizado con IDs reales.
+
+------------------------------------------------------------------------
+4. PASO 4: CAZADOR DE ALINEACIONES - "El Ojo del Estadio" (cazador_alineaciones.py) [✅]
+------------------------------------------------------------------------
+- Técnica: Inyección directa de datos desde la API (inicialLineup JSON).
+- Explicación: Es el que está a pie de campo mirando quién calienta. 
+  Justo antes del partido, captura los 11 nombres reales de cada equipo. 
+  Confirma si los rumores del Espía (Paso 2) eran ciertos.
+- Resultado: 'alineaciones_reales.json' con el "Once Inicial" oficial.
+
+------------------------------------------------------------------------
+5. PASO 5: EL ORQUESTADOR - "El Jefe Boss" (sistema_control.py) [✅]
+------------------------------------------------------------------------
+- Técnica: Ejecución cíclica mediante subprocess y time management.
+- Explicación: Es el botón de "Piloto Automático". Se despierta cada hora, 
+  llama a todos los especialistas anteriores, mete los datos en la 
+  coctelera y te enseña el Dashboard en pantalla mientras tú descansas.
+- Estado: Ejecución 100% autónoma en bucle infinito.
+
+========================================================================
+       🚀 ¿CÓMO FUNCIONA EL FLUJO COMPLETO? (RESUMEN)
+========================================================================
+1. El JEFE (Control) se despierta cada 60 minutos.
+2. Mira la AGENDA (Jornada) para saber qué hay hoy y sus códigos (IDs).
+3. Envía a los ESPÍAS (Reportero) a leer noticias de bajas y sanciones.
+4. Pone el OJO (Cazador) en el campo para confirmar los onces reales.
+5. Te entrega tres archivos de DATOS (JSON) listos para ganar dinero.
+
+========================================================================
+       🏁 PROYECTO: ÉLITE LA LIGA PREDICTOR - FASE 1 FINALIZADA 🏁
+========================================================================

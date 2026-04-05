@@ -1,0 +1,312 @@
+{
+    "01_0101_20260403_184_954": {
+        "local": "Rayo Vallecano",
+        "visitante": "Elche",
+        "once_local": [
+            "Batalla",
+            "Chavarría",
+            "Ratiu",
+            "Lejeune",
+            "Luiz Felipe",
+            "Isi",
+            "Ó. Valentín",
+            "Unai López",
+            "Álvaro García",
+            "De Frutos",
+            "Alemão"
+        ],
+        "once_visitante": [
+            "Dituro",
+            "Bigas",
+            "Affengruber",
+            "Leo Petrot",
+            "Aguado",
+            "Tete",
+            "Buba Sangaré",
+            "Febas",
+            "Rafa Mir",
+            "Alvaro Rodríguez",
+            "G. Valera"
+        ],
+        "capturado_at": "2026-04-05T06:26:27.485363"
+    },
+    "01_0101_20260404_188_855": {
+        "local": "Real Sociedad",
+        "visitante": "Levante",
+        "once_local": [
+            "Remiro",
+            "Caleta-Car",
+            "Aramburu",
+            "Jon Martín",
+            "Sergio Gómez",
+            "Guedes",
+            "Turrientes",
+            "Barrenetxea",
+            "Sucic",
+            "Carlos Soler",
+            "Oyarzabal"
+        ],
+        "once_visitante": [
+            "Ryan",
+            "M. Sánchez",
+            "Matias Moreno",
+            "Dela",
+            "Toljan",
+            "Olasagasti",
+            "Oriol Rey",
+            "Losada",
+            "Kareem Tunde",
+            "Carlos Espí",
+            "Víctor Gª"
+        ],
+        "capturado_at": "2026-04-05T06:26:27.784430"
+    },
+    "01_0101_20260404_181_186": {
+        "local": "Mallorca",
+        "visitante": "Real Madrid",
+        "once_local": [
+            "Leo Román",
+            "Valjent",
+            "Mojica",
+            "Mascarell",
+            "Maffeo",
+            "Morlanes",
+            "Samú Costa",
+            "Pablo Torre",
+            "Darder",
+            "Zito",
+            "Muriqi"
+        ],
+        "once_visitante": [
+            "Lunin",
+            "Huijsen",
+            "Rüdiger",
+            "Carreras",
+            "Trent",
+            "Güler",
+            "Tchouameni",
+            "Camavinga",
+            "Manuel Ángel",
+            "Brahim",
+            "Mbappé"
+        ],
+        "capturado_at": "2026-04-05T06:26:28.097450"
+    },
+    "01_0101_20260404_185_177": {
+        "local": "Real Betis",
+        "visitante": "Espanyol",
+        "once_local": [
+            "A. Valles",
+            "Llorente",
+            "Bellerín",
+            "Valentín Gómez",
+            "Bartra",
+            "Fornals",
+            "Altimira",
+            "Amrabat",
+            "Ruibal",
+            "Cucho",
+            "Antony"
+        ],
+        "once_visitante": [
+            "Dmitrovic",
+            "Cabrera",
+            "Clemens Riedel",
+            "Romero",
+            "El Hilali",
+            "Pol Lozano",
+            "Urko Glez.",
+            "Cyril Ngonge",
+            "Dolan",
+            "Roberto Fernández",
+            "Edu Expósito"
+        ],
+        "capturado_at": "2026-04-05T06:26:28.413262"
+    },
+    "01_0101_20260404_175_178": {
+        "local": "Atletico",
+        "visitante": "Barcelona",
+        "once_local": [
+            "Musso",
+            "Lenglet",
+            "Le Normand",
+            "Nico González",
+            "Molina",
+            "Almada",
+            "Koke",
+            "Giuliano",
+            "Obed Vargas",
+            "Baena",
+            "Griezmann"
+        ],
+        "once_visitante": [
+            "Joan Garcia",
+            "Gerard",
+            "Cubarsí",
+            "Cancelo",
+            "Araujo",
+            "Lamine Yamal",
+            "Eric Garcia",
+            "Fermín",
+            "Rashford",
+            "Pedri",
+            "Olmo"
+        ],
+        "capturado_at": "2026-04-05T06:26:28.746464"
+    },
+    "01_0101_20260405_1450_174": {
+        "local": "Getafe",
+        "visitante": "Athletic Club",
+        "once_local": [
+            "Soria",
+            "Iglesias",
+            "Rico",
+            "Romero",
+            "Duarte",
+            "Djené",
+            "Liso",
+            "Milla",
+            "Luis Vázquez",
+            "Arambarri",
+            "Martín Satriano"
+        ],
+        "once_visitante": [
+            "Unai Simón",
+            "Areso",
+            "Yuri",
+            "Jauregizar",
+            "Vivian",
+            "Laporte",
+            "Iñaki Williams",
+            "Galarreta",
+            "Guruzeta",
+            "Sancet",
+            "Berenguer"
+        ],
+        "capturado_at": "2026-04-05T06:26:29.126226"
+    },
+    "01_0101_20260405_191_176": {
+        "local": "Valencia CF",
+        "visitante": "Celta de Vigo",
+        "once_local": [
+            "Dimitrievski",
+            "Unai",
+            "Gayá",
+            "Guido",
+            "Tárrega",
+            "Cömert",
+            "Javi Guerra",
+            "Almeida",
+            "Hugo Duro",
+            "Rioja",
+            "Ramazani"
+        ],
+        "once_visitante": [
+            "Ionut Radu",
+            "Carreira",
+            "Mingueza",
+            "M. Alonso",
+            "Aidoo",
+            "J. Rodríguez",
+            "Fernando López",
+            "Sotelo",
+            "Borja Iglesias",
+            "Jutglà",
+            "Williot"
+        ],
+        "capturado_at": "2026-04-05T06:26:29.545980"
+    },
+    "01_0101_20260405_187_179": {
+        "local": "Real Oviedo",
+        "visitante": "Sevilla FC",
+        "once_local": [
+            "Aarón",
+            "Nacho Vidal",
+            "Javi López",
+            "Colombatto",
+            "Bailly",
+            "Costas",
+            "Hassan",
+            "Sibo",
+            "Federico Viñas",
+            "Reina",
+            "Ilyas Chaira"
+        ],
+        "once_visitante": [
+            "Vlachodimos",
+            "Carmona",
+            "Oso",
+            "Sow",
+            "Nianzou",
+            "Kike Salas",
+            "Batista Mendy",
+            "Gudelj",
+            "Akor Adams",
+            "Juanlu",
+            "Vargas"
+        ],
+        "capturado_at": "2026-04-05T06:26:29.984875"
+    },
+    "01_0101_20260405_173_450": {
+        "local": "Alaves",
+        "visitante": "Osasuna",
+        "once_local": [
+            "Sivera",
+            "Jonny",
+            "Parada",
+            "Guridi",
+            "Tenaglia",
+            "Pacheco",
+            "Ángel Pérez",
+            "Blanco",
+            "Aleñá",
+            "Toni Martínez",
+            "Calebe"
+        ],
+        "once_visitante": [
+            "S. Herrera",
+            "Rosier",
+            "Galán",
+            "Iker Muñoz",
+            "Catena",
+            "Boyomo",
+            "R. García",
+            "Moncayola",
+            "Budimir",
+            "Aimar",
+            "Víctor Muñoz"
+        ],
+        "capturado_at": "2026-04-05T06:26:30.331910"
+    },
+    "01_0101_20260406_2893_449": {
+        "local": "Girona",
+        "visitante": "Villarreal",
+        "once_local": [
+            "Gazzaniga",
+            "Rincón",
+            "Á. Moreno",
+            "Witsel",
+            "Reis",
+            "Blind",
+            "Tsygankov",
+            "F. Beltrán",
+            "Vanat",
+            "Ounahi",
+            "Joel Roca"
+        ],
+        "once_visitante": [
+            "Luiz Junior",
+            "Mouriño",
+            "Pedraza",
+            "Comesaña",
+            "Navarro",
+            "Renato Veiga",
+            "Pepe",
+            "Gueye",
+            "Mikautadze",
+            "G. Moreno",
+            "Moleiro"
+        ],
+        "capturado_at": "2026-04-05T06:26:30.727294"
+    }
+}
