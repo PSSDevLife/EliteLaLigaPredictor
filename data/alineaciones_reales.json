@@ -28,7 +28,7 @@
             "Alvaro Rodríguez",
             "G. Valera"
         ],
-        "capturado_at": "2026-04-05T06:26:27.485363"
+        "capturado_at": "2026-04-05T14:48:40.855723"
     },
     "01_0101_20260404_188_855": {
         "local": "Real Sociedad",
@@ -59,7 +59,7 @@
             "Carlos Espí",
             "Víctor Gª"
         ],
-        "capturado_at": "2026-04-05T06:26:27.784430"
+        "capturado_at": "2026-04-05T14:48:41.171614"
     },
     "01_0101_20260404_181_186": {
         "local": "Mallorca",
@@ -90,7 +90,7 @@
             "Brahim",
             "Mbappé"
         ],
-        "capturado_at": "2026-04-05T06:26:28.097450"
+        "capturado_at": "2026-04-05T14:48:41.522715"
     },
     "01_0101_20260404_185_177": {
         "local": "Real Betis",
@@ -121,7 +121,7 @@
             "Roberto Fernández",
             "Edu Expósito"
         ],
-        "capturado_at": "2026-04-05T06:26:28.413262"
+        "capturado_at": "2026-04-05T14:48:41.862680"
     },
     "01_0101_20260404_175_178": {
         "local": "Atletico",
@@ -152,7 +152,7 @@
             "Pedri",
             "Olmo"
         ],
-        "capturado_at": "2026-04-05T06:26:28.746464"
+        "capturado_at": "2026-04-05T14:48:42.198572"
     },
     "01_0101_20260405_1450_174": {
         "local": "Getafe",
@@ -160,30 +160,30 @@
         "once_local": [
             "Soria",
             "Iglesias",
-            "Rico",
-            "Romero",
             "Duarte",
             "Djené",
-            "Liso",
-            "Milla",
-            "Luis Vázquez",
+            "Romero",
+            "Sebastián Boselli",
+            "Martín Satriano",
             "Arambarri",
-            "Martín Satriano"
+            "Milla",
+            "Liso",
+            "Luis Vázquez"
         ],
         "once_visitante": [
             "Unai Simón",
-            "Areso",
-            "Yuri",
-            "Jauregizar",
-            "Vivian",
+            "Yeray",
             "Laporte",
-            "Iñaki Williams",
-            "Galarreta",
-            "Guruzeta",
+            "Yuri",
+            "Vivian",
+            "Berenguer",
+            "Rego",
             "Sancet",
-            "Berenguer"
+            "Jauregizar",
+            "Iñaki Williams",
+            "Guruzeta"
         ],
-        "capturado_at": "2026-04-05T06:26:29.126226"
+        "capturado_at": "2026-04-05T14:48:42.516073"
     },
     "01_0101_20260405_191_176": {
         "local": "Valencia CF",
@@ -214,7 +214,7 @@
             "Jutglà",
             "Williot"
         ],
-        "capturado_at": "2026-04-05T06:26:29.545980"
+        "capturado_at": "2026-04-05T14:48:42.864527"
     },
     "01_0101_20260405_187_179": {
         "local": "Real Oviedo",
@@ -245,7 +245,7 @@
             "Juanlu",
             "Vargas"
         ],
-        "capturado_at": "2026-04-05T06:26:29.984875"
+        "capturado_at": "2026-04-05T14:48:43.203141"
     },
     "01_0101_20260405_173_450": {
         "local": "Alaves",
@@ -276,7 +276,7 @@
             "Aimar",
             "Víctor Muñoz"
         ],
-        "capturado_at": "2026-04-05T06:26:30.331910"
+        "capturado_at": "2026-04-05T14:48:43.598964"
     },
     "01_0101_20260406_2893_449": {
         "local": "Girona",
@@ -307,6 +307,6 @@
             "G. Moreno",
             "Moleiro"
         ],
-        "capturado_at": "2026-04-05T06:26:30.727294"
+        "capturado_at": "2026-04-05T14:48:43.989554"
     }
 }

@@ -1,0 +1,86 @@
+========================================================================
+    DICCIONARIO DE INTELIGENCIA DEPORTIVA Y MÉTRICAS DE APUESTAS
+========================================================================
+
+Esta es la guía base sobre cómo la Inteligencia Artificial "lee" las 
+estadísticas en el archivo de perfiles y traduce esos números en 
+probabilidades y rentabilidades (Value) para detectar cuotas mal puestas.
+
+------------------------------------------------------------------------
+1. ESTADÍSTICAS OFENSIVAS (Ataque y Sangre Fría)
+------------------------------------------------------------------------
+* Ataque Puro (Tiros_Totales_AVG): 
+  Mide la presión generada por el equipo, dispare con peligro o no.
+
+* Puntería Ofensiva (%): 
+  De cada 10 pelotas que chutan... ¿cuántas van inofensivas a la grada 
+  y cuántas van entre los 3 palos? Un equipo que tira 20 veces a las 
+  nubes engaña a los apostadores novatos, pero a la IA no se la cuelan.
+
+* Letalidad Real Absoluta (%): 
+  Si logran tirar a los tres palos... ¿son golazos o tiritos inofensivos 
+  al portero? Si tienen "letales" significa que convierten sus tiros de 
+  puerta en goles con máxima eficiencia. Si es bajo, sufren para marcar.
+
+------------------------------------------------------------------------
+2. ESTADÍSTICAS DEFENSIVAS (El Muro de Atrás)
+------------------------------------------------------------------------
+* Fragilidad (Muro_Defensivo_AVG): 
+  Mide cuántos Tiros a Puerta recibe un equipo. Indica su pasividad. Si 
+  tienen un número muy alto, la defensa es un coladero, ideal para 
+  apostar a goles del equipo contrario.
+
+* Calidad/Suerte del Portero (Conversion_Contra_Suerte_%): 
+  Mide el factor de rescate. Si al equipo le tiran a puerta muchísimas 
+  veces (alta Fragilidad) pero tienen un porcentaje extrañamente bajo de 
+  goles encajados, la IA detecta a un portero "Héroe" o "Mucha Suerte". 
+  La IA te avisará si el partido probablemente acabe "Under Goles", 
+  incluso si el rival ataca mucho.
+
+------------------------------------------------------------------------
+3. ÍNDICES ARBITRALES (Diamantes para Apuestas de Tarjetas)
+------------------------------------------------------------------------
+* Resistencia Arbitral (Ratio de Faltas/Amarilla): 
+  Mide si un equipo recibe trato de favor o es extremadamente "leñero 
+  pero invisible". Pega un montón de patadas y micro-faltas rompiendo 
+  el ritmo del partido, pero el árbitro rara vez le saca amarilla. 
+  La IA abortará apostar a que les sacan tarjeta a ellos.
+
+* Dureza del Rival (Ratio de Faltas Sufridas/Amarillas Rivales): 
+  Mide la "provocación" de los delanteros del equipo. Si son rápidos 
+  y los defensas rivales están obligados a frenarlos con agarragones, 
+  el rival verá roja o amarilla rapidísimo. Apuesta asiática clara.
+
+------------------------------------------------------------------------
+4. INDICADORES "APLASTAMIENTO" (Dominio Neto de Campo)
+------------------------------------------------------------------------
+* Dominio de Tiro / Asedio (Dominio_Neto_Tiros):
+  Mide la diferencia exacta de Tiros realizados contra Tiros recibidos. 
+  Número Positivo = Meten al rival debajo del larguero siempre.
+
+* Vendaval Neto / Presión de Cuarto (Dominio_Neto_Corners): 
+  Número clave para "apuestas de hándicap asiático a córners a favor".
+  Equipos que bombardean las bandas para sacar esquinas, muy predecibles.
+
+------------------------------------------------------------------------
+5. GENERADORES DE MERCADOS REINOS (La Magia de la Predicción Final)
+------------------------------------------------------------------------
+* Portería a Cero (%): 
+  La probabilidad exacta, extraída automáticamente año a año, de que su 
+  defensa se mantenga en 0 goles recibidos. Vital para descartar el BTTS.
+
+* Partidos Anotando (%): 
+  La garantía ofensiva. Veces (probabilidad) en las que logran al menos 
+  un gol en los 90 minutos.
+
+* Over 2.5 Goles (%): 
+  El mercado sagrado de las bookies. Identifica equipos que transforman 
+  el partido invariablemente en un asedio de goles de ida y vuelta.
+
+------------------------------------------------------------------------
+¿CÓMO LO UNE LA IA?
+La IA juntará el "Perfil del Equipo A" con el "Perfil del Equipo B".
+Si el Equipo A tiene "Gran Dominio de Tiros" pero el Equipo B tiene un 
+gran valor de "Suerte/Calidad del Portero", la IA avisará que esos Tiros 
+NO se traducirán en goles y te lanzará una Apuesta de Under rentabilísima, 
+buscando atrapar y castigar a la Casa de Apuestas por tener cuotas sueltas.

@@ -70,6 +70,22 @@ def mostrar_estadisticas():
             print(f"  [STAT] Jornada Activa: {len(jornada)} partidos ({proximos} proximos)")
     except:
         print("  [STAT] Jornada: [Archivo no encontrado]")
+
+    # Historicos Híbridos
+    try:
+        with open("data/historico_laliga.csv", "r", encoding="utf-8") as f:
+            lineas = sum(1 for _ in f) - 1
+        print(f"  [STAT] Historial Vivo CSV: {lineas} eventos deportivos puros")
+    except:
+        print("  [STAT] Historial Vivo CSV: [Archivo no encontrado]")
+
+    # Ratios (Cerebro IA)
+    try:
+        with open("data/perfiles_equipos_apuestas.csv", "r", encoding="utf-8") as f:
+            lineas_p = sum(1 for _ in f) - 1
+        print(f"  [STAT] Cerebro Predictivo: {lineas_p} perfiles de apuestas activos")
+    except:
+        print("  [STAT] Cerebro Predictivo: [Archivo no encontrado]")
     
     print("------------------------------------------------------------\n")
 
@@ -88,6 +104,12 @@ def orquestar_sistema():
         
         # 3. Cazar Alineaciones (Prioridad 3: Ver los onces antes del pitido)
         ejecutar_script("core/cazador_alineaciones.py")
+        
+        # 4. Motor Histórico (Prioridad 4: Absorber marcadores, corners y tiros en tiempo real)
+        ejecutar_script("core/extractor_estadisticas_vivo.py")
+        
+        # 5. Cerebro Matemático (Prioridad 5: Compilar los datos nuevos en perfiles de rentabilidad V4)
+        ejecutar_script("core/compilador_ratios_equipos.py")
         
         mostrar_estadisticas()
         
